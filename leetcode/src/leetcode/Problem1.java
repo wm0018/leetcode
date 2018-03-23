@@ -3,7 +3,7 @@ package leetcode;
 /**
  * 1. Two Sum
  * @author Wu
- * 2018Äê3ÔÂ23ÈÕ
+ * 2018å¹´3æœˆ23æ—¥
  */
 public class Problem1 {
 	

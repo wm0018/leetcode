@@ -3,7 +3,7 @@ package leetcode;
 /**
  * 2. Add Two Numbers
  * @author Wu
- * 2018Äê3ÔÂ23ÈÕ
+ * 2018å¹´3æœˆ23æ—¥
  */
 public class Problem2 {
 
