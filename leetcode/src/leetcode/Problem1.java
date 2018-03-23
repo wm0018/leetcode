@@ -22,4 +22,5 @@ public class Problem1 {
 	        return new int[]{m,n};
 	    }
 	}
+	
 }

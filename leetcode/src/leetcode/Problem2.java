@@ -7,7 +7,6 @@ package leetcode;
  */
 public class Problem2 {
 
-	
 	  public class ListNode {
 	      int val;
 	      ListNode next;
